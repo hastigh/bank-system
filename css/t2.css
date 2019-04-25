@@ -1,0 +1,60 @@
+#calculater{
+    border: 1px solid grey;
+    /* padding: 4rem;  */
+    margin: .2rem auto;
+    width: 30%;
+    height: auto;
+   /* border-radius: 20%; */
+   /* box-shadow: 0px 0px 2px 2px gray; */
+}
+#ans{
+    /* display: inline; */
+    float: right;
+    margin-top: 40px;
+    /* padding-right: 0px; */
+    /* margin-right: 0px; */
+    /* border: 1px solid grey; */
+    font-size: 20px;
+    width:300px;
+    height: 30px;
+    text-align: right;
+}
+#div{
+    width: 100%;
+    height: 110px;
+    /* border: 1px solid grey; */
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(170, 170, 170);
+}
+.org{
+
+    padding: 0px;
+    margin: 0px;
+    background-color: orangered;
+}
+table{
+    width: 100%;
+    height: 110px;
+    border: 1px solid grey;
+    padding: 0px;
+    margin: 0px;
+}
+table tr td{
+    border: 1px solid grey;
+    margin: 0px;
+    padding: 0PX;
+    width: 40px;
+    height: 40px;
+}
+#buttoms{
+    padding: 0px;
+    margin: 0px;
+}
+button{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 40px;   
+}
